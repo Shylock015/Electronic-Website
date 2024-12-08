@@ -1,0 +1,24 @@
+body { background-color:  azure;
+      background: 1724168755374.jpg;
+  }
+
+img {  
+      width: 300px;
+      height: 250px;
+      border-radius:20px;
+    }
+
+h1 {
+      color: blue;
+      font-size: 20pt;
+      font-style: italic;
+   }
+
+a link {
+      color: greenyellow;
+      }
+em {
+      color: purple;
+      font-style: italic;
+      
+}
